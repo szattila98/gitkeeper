@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import os, sys
 
 KEEP_FILE_NAME = ".gitkeep"
